@@ -2,8 +2,11 @@
 
 </script>
 <template>
-acxfe
-<i class="fa-regular fa-star"></i>
+  <main>
+      <!--? CONTENT -->
+      <router-view></router-view>
+   </main>
+   
 </template>
 <style lang="scss" scoped>
 </style>

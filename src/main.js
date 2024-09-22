@@ -20,6 +20,6 @@ import '@fortawesome/fontawesome-free/js/all.js';
 
 //? append createApp in #app:
 createApp(App)
-    // .component("font-awesome-icon", FontAwesomeIcon) serve per fare una chiamata per ogni icona
     .use(router)
     .mount('#app');
+    // .component("font-awesome-icon", FontAwesomeIcon) serve per fare una chiamata per ogni icona

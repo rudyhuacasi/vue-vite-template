@@ -1,10 +1,12 @@
 <script>
     export default{
-        name: 'DetailPage',
+        name: 'HomePage',
     }
 </script>
 <template>
-ciao detail
+    acxfe
+<i class="fa-regular fa-star"></i>
+
 </template>
 <style lang="scss" scoped>
 </style>
